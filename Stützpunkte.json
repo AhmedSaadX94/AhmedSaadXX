@@ -1,0 +1,56 @@
+[
+    {
+        "Code": "000",
+        "Name": "Connected Wind Services - Hauptlager Rantrum",
+        "Anschrift": "Mühlenberg 19",
+        "PLZ": 25873,
+        "Stadt": "Rantrum",
+        "Latitude": 54.44578,
+        "Longtitude": 9.13129
+    },
+    {
+        "Code": "002",
+        "Name": "Connected Wind Services - Servicehub Döbeln",
+        "Anschrift": "Grimmaische Straße 82",
+        "PLZ": 4720,
+        "Stadt": "Döbeln",
+        "Latitude": 51.13472,
+        "Longtitude": 13.10061
+    },
+    {
+        "Code": "003",
+        "Name": "Servicehub Bobitz",
+        "Anschrift": "Wismarsche Strasse 43",
+        "PLZ": 23996,
+        "Stadt": "Bobitz",
+        "Latitude": 53.80704,
+        "Longtitude": 11.35892
+    },
+    {
+        "Code": "005",
+        "Name": "Servicehub Bremervörde",
+        "Anschrift": "Industriestraße 4 B",
+        "PLZ": 27432,
+        "Stadt": "Bremervörde",
+        "Latitude": 53.49562,
+        "Longtitude": 9.11374
+    },
+    {
+        "Code": "006",
+        "Name": "Connected Wind Services - Servicehub Burgdorf",
+        "Anschrift": "Tuchmacherweg 16",
+        "PLZ": 31303,
+        "Stadt": "Burgdorf",
+        "Latitude": 52.45016,
+        "Longtitude": 10.04453
+    },
+    {
+        "Code": "008",
+        "Name": "Servicehub Prenzlau",
+        "Anschrift": "Am Vorstadtbahnhof 8",
+        "PLZ": 17291,
+        "Stadt": "Prenzlau",
+        "Latitude": 53.30768,
+        "Longtitude": 13.82719
+    }
+]
